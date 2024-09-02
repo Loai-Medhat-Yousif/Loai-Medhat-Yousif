@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&pause=1000&color=28DF00&center=true&vCenter=true&width=435&lines=Loai+Medhat+Yousif" alt="Typing SVG" /></a>
 </div>
