@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋 ! My name is Loai and I'm a 🚀 fullstack developer | 📱 mobile apps developer from Egypt</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Loai+Medhat+Yousif" alt="Typing SVG" /></a>
+<br>
+
 
 ###
 
